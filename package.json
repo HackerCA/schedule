@@ -21,7 +21,5 @@
     "url": "https://github.com/HackerCodingAcadmey/schedule/issues"
   },
   "homepage": "https://github.com/HackerCodingAcadmey/schedule",
-  "dependencies": {
-    "foundation": "^4.2.1-1"
-  }
+  "dependencies": {}
 }
